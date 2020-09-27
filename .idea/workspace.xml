@@ -11,8 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android App.app">
+  <component name="RunManager" selected="Android JUnit.com.pluralsight.candycoded in app">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -185,8 +184,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
+        <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
         <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
       </list>
@@ -206,25 +205,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="524" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1601208727492">
+    <state x="524" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1601211233652">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="524" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1601208727492" />
-    <state width="1253" height="252" key="GridCell.Tab.0.bottom" timestamp="1601210709643">
+    <state x="524" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1601211233652" />
+    <state width="1253" height="252" key="GridCell.Tab.0.bottom" timestamp="1601211571918">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="252" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1601210709643" />
-    <state width="1253" height="252" key="GridCell.Tab.0.center" timestamp="1601210709640">
+    <state width="1253" height="252" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1601211571918" />
+    <state width="1253" height="252" key="GridCell.Tab.0.center" timestamp="1601211571917">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="252" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1601210709640" />
-    <state width="1253" height="252" key="GridCell.Tab.0.left" timestamp="1601210709639">
+    <state width="1253" height="252" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1601211571917" />
+    <state width="1253" height="252" key="GridCell.Tab.0.left" timestamp="1601211571916">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="252" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1601210709639" />
-    <state width="1253" height="252" key="GridCell.Tab.0.right" timestamp="1601210709642">
+    <state width="1253" height="252" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1601211571916" />
+    <state width="1253" height="252" key="GridCell.Tab.0.right" timestamp="1601211571917">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="252" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1601210709642" />
+    <state width="1253" height="252" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1601211571917" />
   </component>
 </project>
