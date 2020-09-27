@@ -47,10 +47,6 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
-  </component>
   <component name="ProjectId" id="1i5n9IijKnnBXRo2Tksk4yRCtl3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -92,6 +88,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._2_StartTheGoogleMapsActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_3_StartThePhoneActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._3_StartThePhoneActivity" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -173,9 +185,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
+        <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
         <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
-        <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
       </list>
     </recent_temporary>
   </component>
@@ -197,21 +210,21 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="524" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1601208727492" />
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1601210127940">
+    <state width="1253" height="252" key="GridCell.Tab.0.bottom" timestamp="1601210709643">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1601210127940" />
-    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1601210127938">
+    <state width="1253" height="252" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1601210709643" />
+    <state width="1253" height="252" key="GridCell.Tab.0.center" timestamp="1601210709640">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1601210127938" />
-    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1601210127938">
+    <state width="1253" height="252" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1601210709640" />
+    <state width="1253" height="252" key="GridCell.Tab.0.left" timestamp="1601210709639">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1601210127938" />
-    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1601210127939">
+    <state width="1253" height="252" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1601210709639" />
+    <state width="1253" height="252" key="GridCell.Tab.0.right" timestamp="1601210709642">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1601210127939" />
+    <state width="1253" height="252" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1601210709642" />
   </component>
 </project>
